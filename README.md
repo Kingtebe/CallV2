@@ -17,4 +17,4 @@ $ python v2.py
 - [x] Only Indonesia
 - [x] Update Version 2
 
->Get token [click here]()
+>Get token [click here](https://cutt.ly/zluquHk)
