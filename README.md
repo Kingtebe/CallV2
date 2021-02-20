@@ -1,2 +1,14 @@
-# CallV2
-Spam Call V2 
+```
+Ini adalah tools spam call v2 cocok buat prank 
+bapak kau atau teman ataupun mantan. Khusus lu yang tersakiti :v
+```
+## Usage :
+``php
+$ pkg update && pkg upgrade
+$ pkg install git
+$ pkg install python
+$ pip install requests
+$ git clone https://github.com/Kingtebe/CallV2
+$ cd CallV2
+$ python v2.py
+```
