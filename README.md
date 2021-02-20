@@ -3,7 +3,7 @@ Ini adalah tools spam call v2 cocok buat prank
 bapak kau atau teman ataupun mantan. Khusus lu yang tersakiti :v
 ```
 ## Usage :
-``php
+```php
 $ pkg update && pkg upgrade
 $ pkg install git
 $ pkg install python
